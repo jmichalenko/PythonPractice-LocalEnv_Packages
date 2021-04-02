@@ -1,5 +1,7 @@
 Virtual Environments, and External Packages
 
+Tutorial viewed at: https://channel9.msdn.com/Series/Intro-to-Python-Development/Python-for-Beginners-35-of-44-Demo-Virtual-environments-packages
+
 This sample project involved working with packages, and installing local environments so that there are no version issues when packages are installed globally.
 The goal will be to create a program that calls a package that will make an error message red and a sample message green.
 1. Create a local environment
