@@ -28,6 +28,6 @@ def display(message, is_warning=False): #This sets a default of warning to False
 import helpers #importing the package this way requires you to use do notation to call the function
 helpers.display('Sample message', True)
 
-from helpers import display #importing the package this way you can just call display; alternatively you could call it with import helpers *
+from helpers import display #importing the package this way you can just call display; alternatively you could call it with from helpers import *
 display('Sample message')
 ```
